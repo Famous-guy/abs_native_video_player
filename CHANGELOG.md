@@ -1,4 +1,4 @@
-## 2.0.0
+<!-- ## 2.0.0
 
 - Added support for sending optional headers to the native players to stream videos behind authentication (thanks to @shenlong-tanwen)
 - Notify when video isn't playable on iOS (thanks to @ashilkn)
@@ -8,9 +8,9 @@
 
 ## 1.3.1
 
-- Fixed #10 
-- Split example into multiple files 
-- Upgraded dependencies 
+- Fixed #10
+- Split example into multiple files
+- Upgraded dependencies
 
 ## 1.3.0
 
@@ -34,10 +34,14 @@
 
 - Fixed publishing error
 
-## 1.0.2 
+## 1.0.2
 
 - Fixed videos not playing on iOS 14
 
 ## 1.0.1
 
-- First public release
+- First public release -->
+
+## 0.0.1
+
+- Built the native player with inspiration from abs tech

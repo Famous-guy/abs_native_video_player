@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  native_video_player:
+  abs_native_video_player:
     path: ../
 
 dev_dependencies:

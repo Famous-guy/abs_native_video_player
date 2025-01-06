@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:native_video_player/native_video_player.dart';
+import 'package:abs_native_video_player/native_video_player.dart';
 import 'package:native_video_player_example/defines.dart';
 import 'package:native_video_player_example/functions.dart';
 

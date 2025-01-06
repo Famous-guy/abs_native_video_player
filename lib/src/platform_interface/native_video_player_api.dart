@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
-import 'package:native_video_player/src/video_info.dart';
-import 'package:native_video_player/src/video_source.dart';
+import 'package:abs_native_video_player/src/video_info.dart';
+import 'package:abs_native_video_player/src/video_source.dart';
 
 class NativeVideoPlayerApi {
   final int viewId;

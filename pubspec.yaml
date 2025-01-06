@@ -1,11 +1,11 @@
-name: native_video_player
+name: abs_native_video_player
 description: A Flutter widget to play videos on iOS and Android using a native implementation.
 version: 0.0.1
 repository: https://github.com/Famous-guy/abs_native_video_player.git
 
 homepage: https://github.com/Famous-guy/abs_native_video_player.git
 issue_tracker: https://github.com/Famous-guy/abs_native_video_player/issues
-publish_to: https://pub.moneymingle.app # Specifies the publisher
+# publish_to: https://pub.moneymingle.app # Specifies the publisher
 environment:
   sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.10.0"

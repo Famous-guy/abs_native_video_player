@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:native_video_player/native_video_player.dart';
+import 'package:abs_native_video_player/native_video_player.dart';
 import 'package:native_video_player_example/defines.dart';
 
 class VideoListScreenView extends StatelessWidget {
@@ -55,7 +55,6 @@ class _VideoListItemViewState extends State<VideoListItemView> {
       child: Stack(
         children: [
           NativeVideoPlayerView(
-            
             onViewReady: (controller) async {
               _controller = controller;
               await _controller?.setVolume(1);

@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:native_video_player/src/playback_status.dart';
+import 'package:abs_native_video_player/src/playback_status.dart';
 
 /// Video playback information.
 class PlaybackInfo {
