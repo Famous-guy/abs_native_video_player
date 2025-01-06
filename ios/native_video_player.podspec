@@ -3,13 +3,13 @@
 # Run `pod lib lint native_video_player.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'native_video_player'
-  s.version          = '1.0.0'
+  s.name             = 'abs_native_video_player'
+  s.version          = '0.0.4'
   s.summary          = 'A Flutter widget to play videos on iOS and Android using a native implementation.'
   s.description      = <<-DESC
 A Flutter widget to play videos on iOS and Android using a native implementation.
                        DESC
-  s.homepage         = 'https://github.com/Famous-guy/abs_native_video_player/'
+  s.homepage         = 'https://pub.dev/packages/abs_native_video_player/install'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Gabriel Gideon' => 'gideongabriel557@gmail.com' }
   s.source           = { :path => '.' }
