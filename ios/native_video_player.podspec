@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 A Flutter widget to play videos on iOS and Android using a native implementation.
                        DESC
-  s.homepage         = 'https://pub.dev/packages/abs_native_video_player/install'
+  s.homepage         = 'https://pub.dev/packages/abs_native_video_player'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Gabriel Gideon' => 'gideongabriel557@gmail.com' }
   s.source           = { :path => '.' }
