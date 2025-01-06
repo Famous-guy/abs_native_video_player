@@ -1,6 +1,6 @@
 name: abs_native_video_player
 description: A Flutter widget to play videos on iOS and Android using a native implementation.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/Famous-guy/abs_native_video_player.git
 
 homepage: https://github.com/Famous-guy/abs_native_video_player.git
@@ -18,6 +18,7 @@ dependencies:
   path: ^1.9.0
 
   json_annotation: ^4.9.0
+  visibility_detector: ^0.4.0+2
 
 dev_dependencies:
   flutter_test:

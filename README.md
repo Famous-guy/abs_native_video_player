@@ -5,7 +5,7 @@
 A Flutter widget to play videos on iOS and Android using a native implementation.
 
 |             | Android | iOS  |
-|:------------|:--------|:-----|
+| :---------- | :------ | :--- |
 | **Support** | 16+     | 9.0+ |
 
 <img src="https://raw.githubusercontent.com/albemala/native_video_player/main/screenshots/1.gif" width="320"/>
@@ -53,7 +53,7 @@ controller.onPlaybackReady.addListener(() {
 });
 controller.onPlaybackStatusChanged.addListener(() {
   final playbackStatus = controller.playbackInfo.status;
-  // playbackStatus can be playing, paused, or stopped. 
+  // playbackStatus can be playing, paused, or stopped.
 });
 controller.onPlaybackPositionChanged.addListener(() {
   final playbackPosition = controller.playbackInfo.position;
@@ -81,23 +81,25 @@ controller.onPlaybackEnded.addListener(() {
 
 ### Advanced usage
 
-See the [example app](https://github.com/albemala/native_video_player/tree/main/example) for a complete usage example.
+See the [example app](https://github.com//Famous-guy/abs_native_video_player/tree/main/example) for a complete usage example.
 
-## Support this project
+<!-- ## Support this project
 
 - [GitHub Sponsor](https://github.com/sponsors/albemala)
-- [Buy Me A Coffee](https://www.buymeacoffee.com/albemala)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/albemala) -->
 
-Sponsors:
+<!-- Sponsors:
 
-- [@enteio](https://github.com/enteio)
+- [@enteio](https://github.com/enteio) -->
 
 Thank you to all sponsors for supporting this project! ❤️
 
 ## Other projects
 
-[All my projects](https://projects.albemala.me/)
+<!-- [All my projects](https://projects.albemala.me/) -->
 
 ## Credits
 
-Created by [@albemala](https://github.com/albemala) ([Twitter](https://twitter.com/albemala))
+Created by [@gideon](https://github.com/Famous-guy)
+
+<!-- ([Twitter](https://twitter.com/albemala)) -->
